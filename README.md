@@ -46,9 +46,6 @@ The dashboard converts raw job market data into actionable insights to understan
 
 ---
 
-## 📷 Dashboard Preview
-*(Add dashboard screenshot here)*
-
 ---
 
 ## 🚀 Business Value
